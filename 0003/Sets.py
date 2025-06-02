@@ -1,6 +1,4 @@
-# Python Sets - Comprehensive Notes
-
-# Overview
+# Sets in Python
 # A set is a built-in data structure in Python that stores unique elements.
 # Sets are unordered, mutable, and do not allow duplicate values.
 # Sets are useful for operations like removing duplicates, membership testing, and mathematical operations (union, intersection, etc.).
